@@ -1,7 +1,6 @@
 [![Header](https://github.com/Sanzhanov/Sanzhanov/blob/main/assets/QA-Automation.png)](https://www.linkedin.com/in/sanzhanov/)
 
-## Experienced Software QA Engineer with strong test automation skills. 
-## Worked with various test automation tools.
+## Experienced Software QA Engineer with strong test automation skills.Worked with various test automation tools.
 
 
 ### Languages and Tools
@@ -25,10 +24,11 @@
 ### Videos and Articles
 
 
+
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/)
 [![GitHub](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
-[![Codewars](https://img.shields.io/badge/-Chai-0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
+[![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
  ### Contact info
   Sanzhanov21@gmail.com
