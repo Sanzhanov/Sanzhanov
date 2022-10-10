@@ -2,8 +2,8 @@
 
 ## Experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
 
-Languages and Tools
 
+### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-285E5D?style=for-the-badge&logo=javascript)
 ![Jest](https://img.shields.io/badge/-Jest-285E5D?style=for-the-badge&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-285E5D?style=for-the-badge&logo=Cypress)
@@ -26,5 +26,5 @@ Languages and Tools
 [![GitHub](https://img.shields.io/badge/-GitHub-285E5D?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
 [![Codewars](https://img.shields.io/badge/-Codewars-285E5D?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
- Contact info
- Sanzhanov21@gmail.com
+ ### Contact info
+  Sanzhanov21@gmail.com
