@@ -21,5 +21,10 @@ Languages and Tools
 ![Jenkins](https://img.shields.io/badge/-Jenkins-285E5D?style=for-the-badge&logo=Jenkins)
 ![Chai](https://img.shields.io/badge/-Chai-285E5D?style=for-the-badge&logo=Chai)
 
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-285E5D?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/)
+[![GitHub](https://img.shields.io/badge/-GitHub-285E5D?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
+[![Codewars](https://img.shields.io/badge/-Codewars-285E5D?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
-Follow me
+ Contact info
+ Sanzhanov21@gmail.com
