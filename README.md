@@ -3,7 +3,7 @@
 ### Hi there <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource my automated tests and other things :wink:
 
-- 👨‍💻 &nbsp;I’m currently working on new collection of automated tests 
+- 🔭 &nbsp;I’m currently working on new collection of automated tests 
 - 🌱 &nbsp;I’m currently learning and practicing Typescript
 - 👨‍💻 Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
 - 💬 &nbsp;Ask me about anything related to QA Automation
@@ -32,5 +32,6 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 [![GitHub](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
 [![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
+<br/>📝&nbsp;**GitHub Stats**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzhanov&show_icons=true&locale=en" alt="sanzhanov" /></p>
 
