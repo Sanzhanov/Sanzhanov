@@ -32,7 +32,5 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 [![GitHub](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
 [![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanzhanov&show_icons=true&locale=en&layout=compact" alt="sanzhanov" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzhanov&show_icons=true&locale=en" alt="sanzhanov" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzhanov&" alt="sanzhanov" /></p> 
+
