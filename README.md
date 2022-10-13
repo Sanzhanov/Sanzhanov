@@ -4,18 +4,17 @@
 This is the place where I opensource my automated tests and other things :wink:
 
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
-- 🌱 &nbsp;I’m currently learning and practicing Typescript
+- 🌱 &nbsp;I’m currently learning and practicing TypeScript
 - 👨‍💻 Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
 - 💬 &nbsp;Ask me about anything related to QA Automation
+- 👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 ------
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary> 
-<img src='.github/workflows/cartoon1.gif' height=65/>
- 
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary><img src='.github/workflows/cartoon1.gif' height=35/>
 I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
 
 <div align='center'>
-<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+<img src='https://github.com/Sanzhanov/samadpls/blob/2dd5a6b6988784fcd6e151c2b04c7e9b7e5d54f5/github-contribution-grid-snake.svg'/>
 </div>
 
 ------
