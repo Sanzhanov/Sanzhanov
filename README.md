@@ -31,11 +31,10 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 
 ### 📕 Latest Posts  <img src='.github/workflows/cartoon1.gif' height=35/>
 - something interesting coming soon... :wink:
- <br/>
 
 ------
 
-### 🔗 My profiles  <img src='.github/workflows/cartoon1.gif' height=35/>
+### 🔗 My Profiles  <img src='.github/workflows/cartoon1.gif' height=35/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/)
@@ -43,11 +42,18 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 [![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
 ------
-### 📝 GitHub Stats  <img src='.github/workflows/cartoon1.gif' height=35/>
+### 📝 GitHub Stats  <img src='.github/workflows/cartoon1.gif' height=35/> 
+<br/>
 
 [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
-<img src='.github/workflows/thanks.svg'/>
+<div align='center'>
+<p align="center"> 
+   Visitor count:
+   
+   <img src="https://profile-counter.glitch.me/Sanzhanov/count.svg" align="center"/> 
+ </p></div>
+
+ <img src='.github/workflows/thanks.svg'/>
