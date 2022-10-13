@@ -3,15 +3,16 @@
 ### Hi there <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource my automated tests and other things :wink:
 
+------
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
+
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
 - 🌱 &nbsp;I’m currently learning and practicing TypeScript
 - 👨‍💻 Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
 - 💬 &nbsp;Ask me about anything related to QA Automation
 - 👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
-------
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
 
 <div align='center'>
 <img src='https://github.com/Sanzhanov/samadpls/blob/2dd5a6b6988784fcd6e151c2b04c7e9b7e5d54f5/github-contribution-grid-snake.svg'/>
@@ -40,7 +41,7 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 
 ------
 📝&nbsp;**GitHub Stats**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzhanov&show_icons=true&locale=en" alt="sanzhanov" /></p>
 
-------
-<img src='.github/workflows/thanks.svg'/>
+[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
