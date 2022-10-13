@@ -9,13 +9,16 @@ This is the place where I opensource my automated tests and other things :wink:
 - 💬 &nbsp;Ask me about anything related to QA Automation
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 
-<br/>
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+<div align='center'>
+<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+</div>
+------
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary> <img src='.github/workflows/cartoon1.gif' height=65/>
  
 I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
- 
 
-<br/>
+------
+
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
 
@@ -35,3 +38,5 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 <br/>📝&nbsp;**GitHub Stats**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzhanov&show_icons=true&locale=en" alt="sanzhanov" /></p>
 
+---
+<img src='.github/workflows/thanks.svg'/>
