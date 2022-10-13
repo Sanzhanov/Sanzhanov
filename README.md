@@ -10,7 +10,7 @@ This is the place where I opensource my automated tests and other things :wink:
 - 👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 ------
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary><img src='.github/workflows/cartoon1.gif' height=35/>
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
 
 <div align='center'>
