@@ -20,7 +20,7 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 
 <div align='center'>
-<img src='https://github.com/Sanzhanov/samadpls/blob/2dd5a6b6988784fcd6e151c2b04c7e9b7e5d54f5/github-contribution-grid-snake.svg'/>
+<img src='.github/workflows/github-contribution-grid-snake.svg'/>
 </div>
 
 ------
