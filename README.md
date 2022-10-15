@@ -4,7 +4,7 @@
 
  ### *Hi there* <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-This is the place where I share my automated tests and other things :wink:</div>
+Welcome to the place where I share my automated tests and other useful things :wink:</div>
 
 ------
 ### ✨ **About Me**
