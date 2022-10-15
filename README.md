@@ -54,7 +54,7 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 ---
 <div align='center'>
 <p align="center"> 
-   Visitor count:
+   Visitors count:
    
    <img src="https://profile-counter.glitch.me/Sanzhanov/count.svg" align="center"/> 
  </p></div>
