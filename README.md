@@ -1,10 +1,15 @@
-[![Header](https://github.com/Sanzhanov/Sanzhanov/blob/main/assets/QA-Automation.png)](https://www.linkedin.com/in/sanzhanov/)
+<div align='center'>
+<p align="center"> 
+        <img src="https://github.com/Sanzhanov/Sanzhanov/blob/main/assets/QA-Automation.png" alt="header" 
+   align="center"/> 
+ </p></div>
+<br/>
 
 <div align='center'>
 
  ### *Hi there* <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Welcome to the place where I share my automated tests and other useful things :wink:</div>
+Welcome to the place where I share my automated tests and other useful things :rocket:</div>
 
 ------
 ### ✨ **About Me**
@@ -12,11 +17,11 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 
 <br/>
 
+- 👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
 - 🌱 &nbsp;I’m currently learning and practicing TypeScript
-- 👨‍💻 Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
+- 🗂️ Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
 - 💬 &nbsp;Ask me about anything related to QA Automation
-- 👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 
 <div align='center'>
@@ -33,6 +38,7 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 ------
 
 ### 📕 **Latest Posts** 
+- <a rel="last article" href="https://dev.to/sanzhanov/run-api-tests-with-newman-and-send-reports-to-telegram-340e">Run API tests with Newman and send reports to Telegram</a>
 - something interesting coming soon... :wink:
 
 ------
@@ -45,7 +51,7 @@ I am an experienced Software QA Engineer with strong test automation skills. Wor
 [![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
 
 ------
-### 📝 **GitHub Stats**
+### 📝 **GitHub Stats** :octocat:
 <br/>
 
 [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
