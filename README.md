@@ -1,9 +1,9 @@
 <div align='center'>
 <p align="center"> 
-        <img src="https://github.com/Sanzhanov/Sanzhanov/blob/main/assets/QA-Automation.png" alt="header" 
+        <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://github.com/Sanzhanov/Sanzhanov/blob/main/assets/QA-Automation.png" alt="header" width="100%"
    align="center"/> 
- </p></div>
-
+ </a></p></div>
+ 
 <div align='center'>
 
  ### *Hi there* <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
@@ -13,10 +13,11 @@ Welcome to the place where I share my automated tests and other useful things :r
 ------
 ### ✨ **About Me**
 
-I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
-<div align='right'>
+ I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
+ 
+ <div align='right'>
 <p align="right"> 
-        <img src='.github/workflows/pass-fail.gif' height=200 
+        <img src='.github/workflows/pass-fail.gif' height=250 width="35%"
    align="right"/> 
  </p></div>
  
