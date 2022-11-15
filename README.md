@@ -53,6 +53,7 @@ Welcome to the place where I share my automated tests and other useful things :r
 [![LinkedIn](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/)
 [![GitHub](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
 [![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
+[![Dev.to](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanzhanov)
 
 ------
 ### 📝 **GitHub Stats** :octocat:
