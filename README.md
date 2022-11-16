@@ -41,7 +41,8 @@ Welcome to the place where I share my automated tests and other useful things :r
 
 ------
 
-### 📕 **Latest Posts** 
+### 📕 **Latest Posts**
+- <a rel="last article" href="https://dev.to/sanzhanov/node-version-manager-nvm-how-to-install-and-use-step-by-step-guide-k4a">Node Version Manager (NVM): how to install and use (step-by-step guide)</a>
 - <a rel="last article" href="https://dev.to/sanzhanov/run-api-tests-with-newman-and-send-reports-to-telegram-340e">Run API tests with Newman and send reports to Telegram</a>
 - something interesting coming soon... :wink:
 
