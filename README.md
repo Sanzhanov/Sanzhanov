@@ -48,7 +48,7 @@ Welcome to the place where I share my automated tests and other useful things :r
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-## 📕 **Latest Posts**
+## 📕 **My latest Posts**
 - <a rel="last article" href="https://dev.to/sanzhanov/node-version-manager-nvm-how-to-install-and-use-step-by-step-guide-k4a">Node Version Manager (NVM): how to install and use (step-by-step guide)</a>
 - <a rel="last article" href="https://dev.to/sanzhanov/run-api-tests-with-newman-and-send-reports-to-telegram-340e">Run API tests with Newman and send reports to Telegram</a>
 - something interesting coming soon... :wink:
@@ -77,6 +77,22 @@ Welcome to the place where I share my automated tests and other useful things :r
 [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://activity-graph.herokuapp.com/graph?username=Sanzhanov&bg_color=282828&color=8BBC7A&line=FE8019&point=FE8019&area=true&hide_border=true)](https://github.com/Sanzhanov/github-readme-activity-graph)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## 👨🏼‍💻 **Some of my latest projests**
+<br/>
+
+| Project                                                              | Repository                                                                | Description                                                                           |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](.github/workflows/git-repository-line.svg) Newman-Telegram-API                        | [repository](https://github.com/Sanzhanov/Newman-Telegram-API)                        | Run your Test collections with Newman and get html-reports in Telegram                                               |
+| ![](.github/workflows/git-repository-line.svg) Newman-Run-Reporter-for-CRM-Project       | [repository](https://github.com/Sanzhanov/Newman-Collection-Run-Reporter-on-CRM-Project-example)       | Good example of automated running collections and getting HTML-reports                                  |
+| ![](.github/workflows/git-repository-line.svg) API-Automated-Tests-for-CRM-Project     | [repository](https://github.com/Sanzhanov/API-Automation-Tests-for-CRM-ClientBase-v5)       | The collection of more than 100 REST API Automated Tests for CRM Project                                  |
+| ![](.github/workflows/git-repository-line.svg) API-Automated-Tests-for-Payment-project     | [repository](https://github.com/Sanzhanov/API-Automation-Tests-for-Paysis-project)       | The collection of more than 60 REST API Automated Tests for Payment System Project (including mock server setup)                                  |
+| ![](.github/workflows/git-repository-line.svg) COVID-19-Countries-Reports-API     | [repository](https://github.com/Sanzhanov/COVID-19-Countries-Reports-API)       | The collection of automated tests for an open API Project                                  |
+| ![](.github/workflows/git-repository-line.svg) Postman-collection-for-CRM-Project     | [repository](https://github.com/Sanzhanov/Postman-full-collection-for-CRM-ClientBase-v5)       | Postman collection of more than 400 tests and scripts for CRM Project                        |
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
