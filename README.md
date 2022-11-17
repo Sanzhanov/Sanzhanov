@@ -59,12 +59,14 @@ Welcome to the place where I share my automated tests and other useful things :r
 
 ### 🔗 **My Profiles**
 <br/>
-<a href="https://linkedin.com/in/sanzhanov" target="_blank"><img align="left" alt="Alex S | LinkedIn" width="22px" src="https://github.com/Sanzhanov/trying-repos/blob/master/linkedin.svg" />
-
-[![LinkedIn](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/)
-[![GitHub](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
-[![Codewars](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/Aleksandr%20Sanzhanov)
-[![Dev.to](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanzhanov)
+<a href="https://github.com/Sanzhanov" target="_blank"><img align="left" alt="Alex S | GitHub" width="30px" src=".github/workflows/github.svg" /></a>
+<a href="https://linkedin.com/in/sanzhanov" target="_blank"><img align="left" alt="Alex S | LinkedIn" width="30px" src=".github/workflows/linkedin.svg" />
+<a href="https://dev.to/sanzhanov" target="_blank"><img align="left" alt="Alex S | Dev.to" width="32px" src=".github/workflows/dev.svg" />
+<a href="https://hackernoon.com/u/sanzhanov" target="_blank"><img align="left" alt="Alex S | Hackernoon" width="25px" src=".github/workflows/hackernoon.png" />
+<a href="https://www.codewars.com/users/Aleksandr%20Sanzhanov" target="_blank"><img alt="Alex S | Codewars" width="30px" src=".github/workflows/codewars-logos.png" /></a>
+<!-- [![LinkedIn](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/) -->
+<br />
+<br />
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
