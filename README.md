@@ -59,6 +59,7 @@ Welcome to the place where I share my automated tests and other useful things :r
 
 ### 🔗 **My Profiles**
 <br/>
+<a href="https://linkedin.com/in/sanzhanov" target="_blank"><img align="left" alt="Alex S | LinkedIn" width="22px" src="https://github.com/Sanzhanov/trying-repos/blob/master/linkedin.svg" />
 
 [![LinkedIn](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sanzhanov/)
 [![GitHub](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=GitHub)](https://github.com/Sanzhanov)
