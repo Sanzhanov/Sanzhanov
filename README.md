@@ -64,6 +64,7 @@
 <a href="https://dev.to/sanzhanov" target="_blank"><img align="left" alt="Alex S | Dev.to" width="33px" src=".github/workflows/dev.svg" />
 <a href="https://hackernoon.com/u/sanzhanov" target="_blank"><img align="left" alt="Alex S | Hackernoon" width="25px" src=".github/workflows/hackernoon.png" />
 <a href="https://www.codewars.com/users/Aleksandr%20Sanzhanov" target="_blank"><img alt="Alex S | Codewars" width="30px" src=".github/workflows/codewars-logos.png" /></a>
+<a href="https://medium.com/@sanzhanov" target="_blank"><img alt="Alex S | Medium" width="30px" src=".github/workflows/medium.svg" /></a>
 <br />
 <br />
 
