@@ -59,12 +59,13 @@
 
 ## 🔗 **My Profiles**
 <br/>
-<a href="https://github.com/Sanzhanov" target="_blank"><img align="left" alt="Alex S | GitHub" width="30px" src=".github/workflows/github.svg" /></a>
 <a href="https://linkedin.com/in/sanzhanov" target="_blank"><img align="left" alt="Alex S | LinkedIn" width="30px" src=".github/workflows/linkedin.svg" />
+<a href="https://twitter.com/alex_sanzh" target="_blank"><img align="left" alt="Alex S | Twitter" width="30px" src=".github/workflows/twitter.svg" /></a>
 <a href="https://dev.to/sanzhanov" target="_blank"><img align="left" alt="Alex S | Dev.to" width="33px" src=".github/workflows/dev.svg" />
 <a href="https://hackernoon.com/u/sanzhanov" target="_blank"><img align="left" alt="Alex S | Hackernoon" width="25px" src=".github/workflows/hackernoon.png" />
-<a href="https://www.codewars.com/users/Aleksandr%20Sanzhanov" target="_blank"><img align="left" alt="Alex S | Codewars" width="30px" src=".github/workflows/codewars-logos.png" /></a>
 <a href="https://medium.com/@sanzhanov" target="_blank"><img align="left" alt="Alex S | Medium" width="30px" src=".github/workflows/medium.svg" /></a>
+<a href="https://www.codewars.com/users/Aleksandr%20Sanzhanov" target="_blank"><img align="left" alt="Alex S | Codewars" width="30px" src=".github/workflows/codewars-logos.png" /></a>
+<a href="https://github.com/Sanzhanov" target="_blank"><img align="left" alt="Alex S | GitHub" width="30px" src=".github/workflows/github.svg" /></a>
 <br />
 <br />
 
