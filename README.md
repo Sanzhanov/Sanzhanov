@@ -1,14 +1,14 @@
 <div align='center'>
 <p align="center"> 
-        <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://github.com/Sanzhanov/Sanzhanov/blob/main/assets/QA-Automation.png" alt="header" width="100%"
+        <a href="https://www.linkedin.com/in/sanzhanov/"><img src=".github/workflows/MainGiff.gif" alt="header" width="100%"
    align="center"/> 
  </a></p></div>
  
 <div align='center'>
 
- ## *Hi there* <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+ ### *Welcome to my GitHub profile!* <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-### Welcome to the place where I share my automated tests and other useful things :rocket:</div>
+### Here I share my automated tests and other useful things :rocket:</div>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -24,11 +24,13 @@
    align="right"/> 
  </p></div>
  
-- 👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
+- 👨‍💼 &nbsp;5+ years Test Automation experience
+- 👨🏼‍💻 &nbsp;Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
 - 🌱 &nbsp;I’m currently learning and practicing TypeScript
 - 🗂️ Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
 - 💬 &nbsp;Ask me about anything related to QA Automation
+- 🏠 &nbsp;Live in Boston, US
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 
 <div align='center'>
