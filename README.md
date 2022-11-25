@@ -20,9 +20,9 @@
  
  <div align='right'>
 <p align="right"> 
-        <img src='.github/workflows/pass-fail.gif' height=250 width="35%"
+        <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/pass-fail.gif' height=250 width="35%"
    align="right"/> 
- </p></div>
+ </a></p></div>
  
 - 👨‍💼 &nbsp;5+ years Test Automation experience
 - 👨🏼‍💻 &nbsp;Tech Geek, always ready to learn new Technologies/Frameworks/Languages
@@ -34,8 +34,8 @@
 - 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
 
 <div align='center'>
-<img src='.github/workflows/github-contribution-grid-snake.svg'/>
-</div>
+<a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/github-contribution-grid-snake.svg'/>
+</a></div>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -106,15 +106,16 @@
 <p align="center"> 
    Visitors count:
    
-   <img src="https://profile-counter.glitch.me/Sanzhanov/count.svg" align="center"/> 
- </p></div>
+   <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://profile-counter.glitch.me/Sanzhanov/count.svg" align="center"/> 
+ </a></p></div>
 
- <img src='.github/workflows/thanks.svg'/>
+ <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/thanks.svg'/>
+</a>
 
  <div align='center'>
 <p align="center"> 
-        <img src='.github/workflows/cartoon1.gif' height=200 
+        <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/cartoon1.gif' height=200 
    align="center"/> 
- </p></div>
+ </a></p></div>
 
  
