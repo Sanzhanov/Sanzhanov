@@ -78,8 +78,7 @@
 ## 📝 **GitHub Stats** :octocat:
 <br/>
 
-[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sanzhanov/Sanzhanov/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://activity-graph.herokuapp.com/graph?username=Sanzhanov&bg_color=282828&color=8BBC7A&line=FE8019&point=FE8019&area=true&hide_border=true)](https://github.com/Sanzhanov/github-readme-activity-graph)
 
 <p  align="center">
