@@ -51,6 +51,7 @@
 <br>
 
 ## 📕 **My latest Posts**
+- <a rel="last article" href="https://medium.com/testing-with-cypress/selecting-elements-in-cypress-tests-useful-cheatsheet-82b3e29b0545">Selecting elements in Cypress tests: basic + advanced patterns (2 useful Cheatsheets)</a>
 - <a rel="last article" href="https://medium.com/testing-with-cypress/how-to-optimize-cypress-tests-using-javascript-abilities-part-2-recursion-a89b5decc553">How to optimize Cypress tests using JavaScript abilities? (Part 2. Recursion)</a>
 - <a rel="last article" href="https://medium.com/testing-with-cypress/how-to-optimize-cypress-tests-using-javascript-abilities-part-1-loops-52f0ec422ab6">How to optimize Cypress tests using JavaScript abilities? (Part 1. Loops)</a>
 - <a rel="last article" href="https://dev.to/sanzhanov/node-version-manager-nvm-how-to-install-and-use-step-by-step-guide-k4a">Node Version Manager (NVM): how to install and use (step-by-step guide)</a>
