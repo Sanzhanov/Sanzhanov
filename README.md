@@ -16,8 +16,8 @@
 
 ## ✨ **About Me**
 
- I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
- 
+As an experienced Software QA Automation Engineer with more than five years of expertise, I excel in test automation and have worked with several tools. I genuinely love my work and enjoy discussing various topics with my fellow testers while also sharing my knowledge. I am committed to continuously improving my skills and professional growth by writing articles on automated testing.
+
 <div align='right'>
 <p align="right"> 
         <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/pass-fail.gif' height=250 width="35%"
@@ -31,7 +31,7 @@
 - 💬 &nbsp;Ask me about anything related to testing automation in TypeScript/JavaScript
 - 👁️ &nbsp;Follow me on <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">LinkedIn</a> and <a rel="me" href="https://twitter.com/alex_sanzh">Twitter</a>
 - 📚 &nbsp;Read my articles on <a rel="me" href="https://medium.com/@sanzhanov">Medium</a>, <a rel="me" href="https://dev.to/sanzhanov">DEV Community</a> and <a rel="me" href="https://hackernoon.com/u/sanzhanov">HackerNoon</a>
-- 📝 &nbsp;Subscribe to my blog <a rel="me" href="https://medium.com/testing-with-cypress">Testing with Cypress</a> on Medium
+- 📝 &nbsp;Subscribe to my blog <a rel="me" href="https://medium.com/testing-with-cypress">"Testing with Cypress"</a> on Medium
 
 <div align='center'>
 <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/github-contribution-grid-snake.svg'/>
