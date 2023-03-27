@@ -28,10 +28,12 @@
 - 👨🏼‍💻 &nbsp;Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
 - 🌱 &nbsp;I’m currently learning and practicing TypeScript
-- 🗂️ Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
-- 💬 &nbsp;Ask me about anything related to QA Automation
 - 🏠 &nbsp;Live in Boston, US
-- 📫 &nbsp;How to reach me: <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">Alex Sanzhanov</a> or sanzhanov21@gmail.com
+- 🗂️ Some of my test collections are available in <a rel="me" href="https://github.com/Sanzhanov?tab=repositories">Alex's repositories</a>
+- 💬 &nbsp;Ask me about anything related to testing automation in TypeScript/JavaScript
+- 👁️ &nbsp;Follow me on <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">LinkedIn</a> and <a rel="me" href="https://twitter.com/alex_sanzh">Twitter</a>
+- 📚 &nbsp;Read my articles on <a rel="me" href="https://medium.com/@sanzhanov">Medium</a>, <a rel="me" href="https://dev.to/sanzhanov">DEV Community</a> and <a rel="me" href="https://hackernoon.com/u/sanzhanov">HackerNoon</a>
+- 📝 &nbsp;Subscribe to my blog <a rel="me" href="https://medium.com/testing-with-cypress">Testing with Cypress</a> on Medium
 
 <div align='center'>
 <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/github-contribution-grid-snake.svg'/>
