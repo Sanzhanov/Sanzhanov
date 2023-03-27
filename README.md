@@ -17,13 +17,11 @@
 ## ✨ **About Me**
 
  I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
- 
- <div align='right'>
+  <div align='right'>
 <p align="right"> 
         <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/pass-fail.gif' height=250 width="35%"
    align="right"/> 
  </a></p></div>
- 
 - 👨‍💼 &nbsp;5+ years Test Automation experience
 - 👨🏼‍💻 &nbsp;Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
