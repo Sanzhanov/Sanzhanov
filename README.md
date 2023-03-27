@@ -24,6 +24,7 @@
         <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/pass-fail.gif' height=250 width="35%"
    align="right"/> 
  </a></p></div>
+ 
 - 👨🏼‍💻 &nbsp;Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
 - 🌱 &nbsp;I’m currently learning and practicing TypeScript
