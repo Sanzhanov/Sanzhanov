@@ -30,7 +30,7 @@ As an experienced Software QA Automation Engineer with more than five years of e
 - 🏠 &nbsp;Live in Boston, US
 - 💬 &nbsp;Ask me about anything related to testing automation in TypeScript/JavaScript
 - 👁️ &nbsp;Follow me on <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">LinkedIn</a> and <a rel="me" href="https://twitter.com/alex_sanzh">Twitter</a>
-- 📚 &nbsp;Read my articles on <a rel="me" href="https://medium.com/@sanzhanov">Medium</a>, <a rel="me" href="https://dev.to/sanzhanov">DEV Community</a> and <a rel="me" href="https://hackernoon.com/u/sanzhanov">HackerNoon</a>
+- 📚 &nbsp;Read my articles on <a rel="me" href="https://medium.com/@sanzhanov">Medium</a>, <a rel="me" href="https://dev.to/sanzhanov">DEV Community</a>, <a rel="me" href="https://hackernoon.com/u/sanzhanov">HackerNoon</a>, <a rel="me" href="https://habr.com/ru/users/alex_sanzh/posts/">Habr</a>, <a rel="me" href="https://dzen.ru/cypress">Dzen</a>
 - 📝 &nbsp;Subscribe to my blog <a rel="me" href="https://medium.com/testing-with-cypress">"Testing with Cypress"</a> on Medium
 
 <div align='center'>
