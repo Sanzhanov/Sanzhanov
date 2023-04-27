@@ -70,6 +70,8 @@ As an experienced Software QA Automation Engineer with more than five years of e
 <a href="https://medium.com/@sanzhanov" target="_blank"><img align="left" alt="Alex S | Medium" width="30px" src=".github/workflows/medium.svg" /></a>
 <a href="https://dev.to/sanzhanov" target="_blank"><img align="left" alt="Alex S | Dev.to" width="33px" src=".github/workflows/dev.svg" />
 <a href="https://hackernoon.com/u/sanzhanov" target="_blank"><img align="left" alt="Alex S | Hackernoon" width="25px" src=".github/workflows/hackernoon.png" />
+<a href="https://habr.com/ru/users/alex_sanzh/posts/" target="_blank"><img align="left" alt="Alex S | Habr" width="30px" src=".github/workflows/habr.png" /></a>
+<a href="https://dzen.ru/cypress" target="_blank"><img align="left" alt="Alex S | Dzen" width="30px" src=".github/workflows/zen.png" /></a>
 <a href="https://www.codewars.com/users/Aleksandr%20Sanzhanov" target="_blank"><img align="left" alt="Alex S | Codewars" width="30px" src=".github/workflows/codewars-logos.png" /></a>
 <a href="https://github.com/Sanzhanov" target="_blank"><img align="left" alt="Alex S | GitHub" width="30px" src=".github/workflows/github.svg" /></a>
 <br />
