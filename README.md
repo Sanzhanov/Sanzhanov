@@ -51,6 +51,7 @@ As an experienced Software QA Automation Engineer with more than five years of e
 <br>
 
 ## 📕 **My latest Posts**
+- <a rel="last article" href="https://medium.com/testing-with-cypress/running-cypress-tests-in-docker-containers-using-different-docker-images-2dee3450881e">Running Cypress tests in Docker containers using different Docker images</a>
 - <a rel="last article" href="https://medium.com/testing-with-cypress/testing-excel-data-with-cypress-5e8a0cd00f97">Testing Excel Data with Cypress</a>
 - <a rel="last article" href="https://medium.com/testing-with-cypress/selecting-elements-in-cypress-tests-useful-cheatsheet-82b3e29b0545">Selecting elements in Cypress tests: basic + advanced patterns (2 useful Cheatsheets)</a>
 - <a rel="last article" href="https://medium.com/testing-with-cypress/how-to-optimize-cypress-tests-using-javascript-abilities-part-2-recursion-a89b5decc553">How to optimize Cypress tests using JavaScript abilities? (Part 2. Recursion)</a>
