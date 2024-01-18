@@ -26,9 +26,9 @@ As an experienced Software QA Automation Engineer with more than five years of e
 
 - 👨🏼‍💻 &nbsp;Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 &nbsp;I’m currently working on new collection of automated tests 
-- 🌱 &nbsp;I’m currently learning and practicing TypeScript
+- 🌱 &nbsp;I’m currently learning and practicing TypeScript, Python
 - 🏠 &nbsp;Live in Boston, US
-- 💬 &nbsp;Ask me about anything related to testing automation in TypeScript/JavaScript
+- 💬 &nbsp;Ask me about anything related to automated testing in TypeScript/JavaScript
 - 👁️ &nbsp;Follow me on <a rel="me" href="https://www.linkedin.com/in/sanzhanov/">LinkedIn</a> and <a rel="me" href="https://twitter.com/alex_sanzh">Twitter</a>
 - 📚 &nbsp;Read my articles on <a rel="me" href="https://medium.com/@sanzhanov">Medium</a>, <a rel="me" href="https://dev.to/sanzhanov">DEV Community</a>, <a rel="me" href="https://hackernoon.com/u/sanzhanov">HackerNoon</a>, <a rel="me" href="https://habr.com/ru/users/alex_sanzh/posts/">Habr</a>, <a rel="me" href="https://dzen.ru/cypress">Dzen</a>
 - 📝 &nbsp;Subscribe to my blog <a rel="me" href="https://medium.com/testing-with-cypress">"Testing with Cypress"</a> on Medium
@@ -102,6 +102,7 @@ As an experienced Software QA Automation Engineer with more than five years of e
 | Project                                                              | Description                                                                | Used Tools and Packages                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](.github/workflows/git-repository-line.svg) [Cypress-Docker-GitHub Actions](https://github.com/Sanzhanov/Cypress-Docker)                        | Running Cypress tests across multiple browsers on GitHub Actions platform using Docker Compose                     |Cypress 12.13.0, Docker 20.10.21, GitHub Actions 3.8, TypeScript 5.0.4     
+| ![](.github/workflows/git-repository-line.svg) [Cypress-Twilio](https://github.com/Sanzhanov/SimpliSafe-Test-Example)                        | Example of automated e2e tests for registering a new user with 2FA via SMS                     |Cypress 13.6.2, Twilio, cypress-mochawesome-reporter 3.8.0, TypeScript 5.3.3     
 | ![](.github/workflows/git-repository-line.svg) [Newman-Telegram-API](https://github.com/Sanzhanov/Newman-Telegram-API)                        | Run your Test collections with Newman and get html-reports in Telegram                       |Newman, Telegram Bot API, Newman Reporter htmlextra, deasync, node-fetch, form-data, etc.                                                  |
 | ![](.github/workflows/git-repository-line.svg) [Newman-Run-Reporter-for-CRM-Project](https://github.com/Sanzhanov/Newman-Collection-Run-Reporter-on-CRM-Project-example)       | Good example of automated running collections and getting HTML-reports       | Newman, Newman Reporter htmlextra                                    |
 | ![](.github/workflows/git-repository-line.svg) [UI-Automated-Tests-for-CRM-Project](https://github.com/Sanzhanov/UI-Automated-Tests-for-CRM-Project)       | Collection of 100+ UI automated tests based on using Cypress       | Cypress 12.0.1, Mocha, Chai, etc.                                    |
